@@ -1,21 +1,21 @@
 ###Sex
- - maleÀº 0, femaleÀº 1·Î ´ëÃ¼
+ - maleì€ 0, femaleì€ 1ë¡œ ëŒ€ì²´
 
 ###Embarked
- - °áÃø°ª : °¡Àå ¸¹ÀÌ ³ªÅ¸³ª´Â 'S'·Î Ã¤¿ò
- - 'C', 'S', 'Q'¸¦ °¢°¢ ¼ýÀÚ·Î º¯È¯(LabelEncoder())
+ - ê²°ì¸¡ê°’ : ê°€ìž¥ ë§Žì´ ë‚˜íƒ€ë‚˜ëŠ” 'S'ë¡œ ì±„ì›€
+ - 'C', 'S', 'Q'ë¥¼ ê°ê° ìˆ«ìžë¡œ ë³€í™˜(LabelEncoder())
 
 ###Fare
- - °áÃø°ª : Æò±Õ°ªÀ¸·Î Ã¤¿ò
- - 5(0~4, 5~9, ...)¾¿ ±¸°£À» ³ª´®
+ - ê²°ì¸¡ê°’ : í‰ê· ê°’ìœ¼ë¡œ ì±„ì›€
+ - 5(0 ~ 4, 5 ~ 9, ...)ì”© êµ¬ê°„ì„ ë‚˜ëˆ”
 
 ###Name
- - Name ÃßÃâ
- - Ç¥½Ã´Â ´Ù¸£Áö¸¸ ºñ½ÁÇÑ °Í³¢¸® ±×·ìÈ­
+ - Name ì¶”ì¶œ
+ - í‘œì‹œëŠ” ë‹¤ë¥´ì§€ë§Œ ë¹„ìŠ·í•œ ê²ƒë¼ë¦¬ ê·¸ë£¹í™”
 
 ###Age
- - °áÃø°ª : Age Æò±ÕÀÎ 28·Î Ã¤¿ò
- - ±¸°£À» ³ª´²ÁÖ±â À§ÇØ 5(0~4, 5~9, ...)¾¿ ³ª´®
+ - ê²°ì¸¡ê°’ : Age í‰ê· ì¸ 28ë¡œ ì±„ì›€
+ - êµ¬ê°„ì„ ë‚˜ëˆ ì£¼ê¸° ìœ„í•´ 5(0 ~ 4, 5 ~ 9, ...)ì”© ë‚˜ëˆ”
 
 ###Feature selection
- - Ticket, CabinÀº »ç¿ëÇÏÁö ¾ÊÀ½
+ - Ticket, Cabinì€ ì‚¬ìš©í•˜ì§€ ì•ŠìŒ
